@@ -1,1 +1,2 @@
-##Hotel management system app for organizing reservations and clients data
+## NodeLodge
+A hotel management system for organizing clients' reservations with  room conditions
